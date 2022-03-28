@@ -1,0 +1,6 @@
+tqdm
+pandas
+bs4
+wget
+pymongo
+sentencepiece
